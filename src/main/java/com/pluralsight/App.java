@@ -2,6 +2,12 @@ package com.pluralsight;
 
 public class App {
     public static void main(String[] args) {
-        System.out.println("Hello");
+
+        //Declare a variable to store your favorite color
+        String favColor = "Blue";
+
+        //Declare a variable to store the year you started this class
+
+
     }
 }
