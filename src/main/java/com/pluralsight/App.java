@@ -13,7 +13,7 @@ public class App {
         String middleInitial = "";
 
         //Declare a variable to store whether you have pets (yes/no)
-        boolean havePets = False;
+        Boolean havePets = false;
 
         //Declare a variable with a nice message or saying
         String message = "";
