@@ -16,7 +16,7 @@ public class App {
         System.out.println("Middle Initial: " + middleInitial);
 
         //Declare a variable to store whether you have pets (yes/no)
-        Boolean havePets = false;
+        boolean havePets = false;
         System.out.println("Do you have pets? " + havePets);
 
         //Declare a variable with a nice message or saying
@@ -35,7 +35,11 @@ public class App {
 
         //Your favorite letter
         char favLetter = 'S';
-        System.out.println("Favorite Letter: " + favColor);
+        System.out.println("Favorite Letter: " + favLetter);
+
+        //Whether it's raining (true/false)
+        boolean rain = false;
+        System.out.println("Is it raining (T/F): " + rain);
 
 
 
