@@ -29,7 +29,9 @@ public class App {
         int numOfDays = 7;
         System.out.println("Number of days in a week: " + numOfDays);
 
-
+        //The price of coffee ($4.99)
+        double coffeePrice = 4.99;
+        System.out.println("Price of Coffee: " + coffeePrice);
 
 
 
