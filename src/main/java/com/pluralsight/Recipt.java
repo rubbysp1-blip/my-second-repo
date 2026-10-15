@@ -10,11 +10,11 @@ public class Recipt {
         int quantity;
 
         //Assign variables
-        itemName = "shirt";
+        itemName = "shirts";
         itemPrice = 3.50;
         quantity = 2;
 
         //Print out all variables in one sentence
-        System.out.println("You bought " + quantity + " " + itemName + " for " + itemPrice);
+        System.out.println("You bought " + quantity + " " + itemName + " for $" + itemPrice);
     }
 }
