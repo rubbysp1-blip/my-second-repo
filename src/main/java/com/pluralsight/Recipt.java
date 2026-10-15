@@ -8,5 +8,13 @@ public class Recipt {
         double itemPrice;
         //Create a quantity variable (int)
         int quantity;
+
+        //Assign variables
+        itemName = "shirt";
+        itemPrice = 3.50;
+        quantity = 2;
+
+        //Print out all variables in one sentence
+        System.out.println("You bought " + quantity + " " + itemName + " for " + itemPrice);
     }
 }
