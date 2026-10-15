@@ -8,7 +8,7 @@ public class App {
         System.out.println(favColor);
         //Declare a variable to store the year you started this class
         String startingDate = "2026";
-
+        System.out.println(startingDate);
         //Declare a variable to store your middle initial
         String middleInitial = "";
 
