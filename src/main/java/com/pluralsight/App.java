@@ -12,6 +12,10 @@ public class App {
         //Declare a variable to store your middle initial
         String middleInitial = "";
 
+        //Declare a variable to store whether you have pets (yes/no)
+        boolean havePets = False;
+
+
 
 
 
