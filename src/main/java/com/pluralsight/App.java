@@ -33,6 +33,10 @@ public class App {
         double coffeePrice = 4.99;
         System.out.println("Price of Coffee: " + coffeePrice);
 
+        //Your favorite letter
+        char favLetter = 'S';
+        System.out.println("Favorite Letter: " + favColor);
+
 
 
 
