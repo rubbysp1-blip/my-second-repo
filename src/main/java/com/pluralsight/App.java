@@ -20,7 +20,8 @@ public class App {
         System.out.println("Do you have pets? " + havePets);
 
         //Declare a variable with a nice message or saying
-        String message = "";
+        String message = "Have a nice day!";
+        System.out.println("Nice message: " + message);
 
 
 
