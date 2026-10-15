@@ -10,6 +10,7 @@ public class App {
         String startingDate = "2026";
 
         //Declare a variable to store your middle initial
+        String middleInitial = "";
 
 
 
