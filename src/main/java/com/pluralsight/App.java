@@ -23,6 +23,14 @@ public class App {
         String message = "Have a nice day!";
         System.out.println("Nice message: " + message);
 
+        //Step 2
+
+        //The number of days in a week
+        int numOfDays = 7;
+        System.out.println("Number of days in a week: " + numOfDays);
+
+
+
 
 
 
